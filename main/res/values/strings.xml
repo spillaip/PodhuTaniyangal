@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">தென்கலை பொது தனியன்கள் </string>
+    <array name="thenkalaiPodhuTaniyalgal_ta">
+        <item>one</item>
+        <item>two</item>
+        <item>three</item>
+        <item>four</item>
+        <item>five</item>
+    </array>
+
+</resources>
